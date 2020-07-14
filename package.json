@@ -1,0 +1,18 @@
+{
+  "name": "node_exercise_11072020",
+  "version": "1.0.0",
+  "description": "blogpost backend exercise followed by node girl workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Esteban Medina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "formidable": "^1.2.2",
+    "nodemon": "^2.0.4"
+  }
+}
